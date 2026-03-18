@@ -1,0 +1,60 @@
+Module: M1
+Orient: MX
+Offset: [314, 167]
+Module: M2
+Orient: MY
+Offset: [61, 129]
+Module: M3
+Orient: MYR90
+Offset: [398, 290]
+Module: M4
+Orient: MY
+Offset: [614, 176]
+Module: M5
+Orient: R0
+Offset: [293, 303]
+Module: M6
+Orient: R0
+Offset: [417, 175]
+Module: M7
+Orient: R90
+Offset: [155, 346]
+Module: M8
+Orient: MYR90
+Offset: [42, 336]
+Module: M9
+Orient: MYR90
+Offset: [168, 253]
+Module: M10
+Orient: MX
+Offset: [203, 66]
+Module: M11
+Orient: R180
+Offset: [612, 62]
+Module: M12
+Orient: MX
+Offset: [485, 161]
+Module: M13
+Orient: MYR90
+Offset: [414, 370]
+Module: M14
+Orient: MX
+Offset: [553, 315]
+Module: M15
+Orient: MYR90
+Offset: [547, 137]
+Module: M16
+Orient: R270
+Offset: [162, 147]
+Module: M17
+Orient: R180
+Offset: [370, 57]
+Module: M18
+Orient: MY
+Offset: [90, 26]
+Module: M19
+Orient: MYR90
+Offset: [46, 226]
+Module: M20
+Orient: MX
+Offset: [532, 33]

@@ -1,0 +1,149 @@
+g8 s 1
+gp2 l
+g10 l
+g11 l
+g13 l
+g7 s 1
+gp3 l
+g10 l
+g11 l
+g6 s 1
+gp4 l
+g11 l
+g14 s 1
+gp5 l
+g1 l
+g18 l
+g5 s 1
+gp6 l
+g5 s 1
+gp7 l
+g17 s 1
+gp8 l
+g19 l
+g20 l
+g22 l
+g16 s 1
+gp9 l
+g19 l
+g20 l
+g15 s 1
+gp10 l
+g20 l
+g0 s 1
+gp11 l
+g0 s 1
+gp12 l
+g0 s 1
+gp13 l
+g2 s 1
+gp14 l
+g2 s 1
+gp15 l
+g2 s 1
+gp16 l
+g25 s 1
+gp17 l
+g27 l
+g28 l
+g30 l
+g24 s 1
+gp18 l
+g27 l
+g28 l
+g23 s 1
+gp19 l
+g28 l
+gp20 s 1
+g10 l
+g5 l
+g19 l
+g0 l
+g2 l
+g27 l
+g11 l
+g12 l
+g20 l
+g21 l
+g28 l
+g29 l
+gp21 s 1
+g10 l
+g5 l
+g19 l
+g0 l
+g2 l
+g27 l
+g11 l
+g12 l
+g20 l
+g21 l
+g28 l
+g29 l
+gp0 s 1
+g4 l
+g5 l
+g1 l
+g0 l
+g2 l
+g3 l
+gp1 s 1
+g5 l
+g0 l
+g2 l
+g3 l
+g26 l
+g4 s 1
+g6 l
+g7 l
+g8 l
+g11 s 1
+g6 l
+g9 s 1
+g6 l
+g7 l
+g8 l
+g12 s 1
+g6 l
+g7 l
+g8 l
+g10 s 1
+g7 l
+g13 s 1
+g8 l
+g1 s 1
+g15 l
+g16 l
+g17 l
+g20 s 1
+g15 l
+g18 s 1
+g15 l
+g16 l
+g17 l
+g21 s 1
+g15 l
+g16 l
+g17 l
+g19 s 1
+g16 l
+g22 s 1
+g17 l
+g3 s 1
+g23 l
+g24 l
+g25 l
+g28 s 1
+g23 l
+g26 s 1
+g23 l
+g24 l
+g25 l
+g29 s 1
+g23 l
+g24 l
+g25 l
+g27 s 1
+g24 l
+g30 s 1
+g25 l

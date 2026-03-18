@@ -1,0 +1,27 @@
+Link1:
+M19 M16 M13 M14 M2
+3 3 1 1 1
+Link2:
+M11 M10 M13 M20 M19 M18
+1 3 3 3 1 3
+Link3:
+M20 M3 M5 M6 M7
+2 2 2 2 2
+Link4:
+M8 M4 M3 M15
+3 1 3 3
+Link5:
+M10 M13 M19
+2 2 2
+Link6:
+M1 M20 M9
+1 1 1
+Link7:
+M9 M16 M3
+3 1 1
+Link8:
+M16 M11
+2 2
+Link9:
+M12 M17
+3 3

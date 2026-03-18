@@ -1,0 +1,64 @@
+Module:1
+Orient:MY
+Offset:[194.050, 92.750]
+
+Module:2
+Orient:R90
+Offset:[98.667, 85.767]
+
+Module:3
+Orient:MXR90
+Offset:[387.350, 149.600]
+
+Module:4
+Orient:R90
+Offset:[402.167, 208.467]
+
+Module:5
+Orient:R90
+Offset:[81.400, 336.650]
+
+Module:6
+Orient:MX
+Offset:[367.700, 31.033]
+
+Module:7
+Orient:R90
+Offset:[606.850, 247.250]
+
+Module:8
+Orient:MXR90
+Offset:[689.100, 28.500]
+
+Module:9
+Orient:R0
+Offset:[753.250, 396.050]
+
+Module:10
+Orient:MX
+Offset:[230.900, 345.350]
+
+Module:11
+Orient:MX
+Offset:[401.350, 325.950]
+
+Module:12
+Orient:R90
+Offset:[834.000, 215.067]
+
+Module:13
+Orient:MX
+Offset:[631.950, 182.750]
+
+Module:14
+Orient:MYR90
+Offset:[557.733, 380.400]
+
+Module:15
+Orient:R0
+Offset:[49.000, 374.300]
+
+Module:16
+Orient:MY
+Offset:[564.400, 111.600]
+
